@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @midnightdevlpr
-- 👀 I’m interested in Flutter,Laravel,Vue,Svelte,Next Js and React Js
-- 🌱 I’m currently learning Svelte,Next Js and Rust
+- 👀 Take a look at my repos to see what intrigues you then clone and play around with it
+- 🌱 I like my code to be elegant and efficient. The logic should be straightforward to make it hard for bugs to hide, the dependencies minimal to ease maintenance, error handling complete according to an articulated strategy, and performance close to optimal so as not to tempt people to make the code messy with unprincipled optimizations. Clean code does one thing well.
 - 💞️ I’m looking to collaborate on web design projects and systems engineering
 - 📫 Reach me on [twitter](https://twitter.com/BossProtege)
 
